@@ -22,6 +22,9 @@ const Header = () => {
     <div className="flex w-1/1">
       <Link className="p-4" href="/">Home</Link>
       <Link className="p-4" href="/mountain">Mountain Info</Link>
+      <Link className="p-4" href="/hotels">Hotels Info</Link>
+      <Link className="p-4" href="/contact">Contact</Link>
+
     </div>
   );
 }
